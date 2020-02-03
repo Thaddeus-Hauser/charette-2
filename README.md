@@ -18,9 +18,9 @@ Your guiding text will be the poem to which you choose to respond.
 
 ## Activity
 
-- [ ] Choose 1 poem from the [Art 387 Poetry Packet](https://github.com/allegheny-college-art-387-spring-2020/charette-2/blob/master/materials/ART%20387%20-%20Poetry%20Packet.pdf)
-- [ ] Create a drawing or other graphical representation of the "space" of the poem
-- [ ] Create a response or descriptive poem dedicated to the space
+- [x] Choose 1 poem from the [Art 387 Poetry Packet](https://github.com/allegheny-college-art-387-spring-2020/charette-2/blob/master/materials/ART%20387%20-%20Poetry%20Packet.pdf)
+- [x] Create a drawing or other graphical representation of the "space" of the poem
+- [x] Create a response or descriptive poem dedicated to the space
     * See below for guidelines
 
 ## Deliverables
@@ -31,11 +31,11 @@ Your guiding text will be the poem to which you choose to respond.
 
 **Note**: If making a physical drawing, I require both the drawing and images of it placed in the `writing` directory
 
-- [ ] A drawing or other graphical representation of the "space" of the poem chosen
+- [x] A drawing or other graphical representation of the "space" of the poem chosen
     * Your image (of any type) must be:
         * Named `plot` 
         * placed in the `studies` folder
-- [ ] A response or notional description of the space in the form of a poem
+- [x] A response or notional description of the space in the form of a poem
     * Your poem must take a line or phrase from a critical text we've read this semester so far
     * Your poem's first line must be a line from the poem to which you're responding
     * Place this response in the `writing` directory's `poem.md` file _or_ place an image (of any type) named `poem` in the `writing` folder
